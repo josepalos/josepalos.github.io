@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "OptiLog Tutorial<br />Workshops of The 26th International Conference on Theory and Applications of Satisfiability Testing; Alghero, Italy",
+    40.5587291,
+    8.3153206
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "OptiLog for Education<br />Workshop on Teaching Constraint Programming WTCP 2023; Toronto, Canada",
+    43.6534817,
+    -79.3839347
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "OptiLog v2: Model, Solve, Tune And Run<br />The 25th International Conference on Theory and Applications of Satisfiability Testing; Haifa, Israel",
+    32.8191218,
+    34.9983856
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Exploiting Configurations of MaxSAT solvers<br />The 29th International Conference on Principles and Practice of Constraint Programming; Toronto, Canada",
+    43.6534817,
+    -79.3839347
   ]
 ];
