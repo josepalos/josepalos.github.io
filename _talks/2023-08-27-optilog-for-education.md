@@ -10,6 +10,6 @@ location: "Toronto, Canada"
 
 We propose the integration of the OptiLog Python framework into undergraduate courses, mainly on courses that make use of SATisfiability-based applications, but also in courses where benchmarking and experimentation are relevant. We show a brief overview of the framework’s features, and develop examples of cases where OptiLog would be suitable in educational environments. The student willfind support to model problems, set up execution environments, and process the results in a friendly way. All the lessons learnt from the usage of OptiLog can be directly applied to solve industrial problems.
 
-Related paper: [/publications/2022-07-28-optilog-v2]
+[Related paper]({{ site.baseurl }}/publication/2023-08-27-optilog-for-education)
 
 [More information here](https://hsimonis.github.io/WTCP2023/)
