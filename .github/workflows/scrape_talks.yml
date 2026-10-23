@@ -23,7 +23,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install pandas requests beautifulsoup4 geopy
+        pip install python-frontmatter pandas requests beautifulsoup4 geopy
         pip install getorg --upgrade
 
     - name: Build the map
